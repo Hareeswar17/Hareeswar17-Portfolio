@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Connectify",
+    "description": "A responsive website to make video calls and Chat in real time using streamify, built using NodeJs, Express, MongoDB, React, secured using JWT- based authentication ",
+    "github": "https://github.com/Hareeswar17/Connectify"
+  },
+  {
+    "title": "Quick Show",
+    "description": "A full-stack movie ticket booking web application with secure authentication, seat selection, and automated booking management. Built using Node.js, Express.js, MongoDB, React, Clerk, Inngest, and Tailwind CSS.",
+    "github": "https://github.com/Hareeswar17/quick-show"
+  },
+  {
+    "title": "DOA Estimation using Deep Learning",
+    "description": "Research project at NIT Warangal focused on predicting Direction of Arrival of Electromagnetic Waves using CNN and LSTM architectures. Built using Python, TensorFlow, Keras, and MATLAB.",
+    "github": "https://github.com/Hareeswar17/doa-cloned"
+  },
+  {
+    "title": "DevJobs",
+    "description": "A simple job portal application with full CRUD functionality for job listings. Features include browsing jobs, viewing details, adding new jobs, editing and deleting existing jobs with responsive design. Built using React, React Router, Tailwind CSS, Vite, React Icons, and React Toastify.",
+    "github": "https://github.com/Hareeswar17/DevJobs"
+  },
+  {
+    "title": "Note Taking",
+    "description": "A simple and elegant notes application with modern UI and full CRUD functionality. Features include creating notes with title and description, marking notes as important, deletion, and responsive design with beautiful gradient and glass morphism effects. Built using FastAPI (Python), HTML, CSS, JavaScript with custom modern styling.",
+    "github": "https://github.com/Hareeswar17/Notes-App-FastAPI"
+  }
+]
